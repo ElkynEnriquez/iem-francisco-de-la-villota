@@ -149,7 +149,7 @@
                             <div class="collapsible-body">
 
                                     <div class="card-panel" id="card_video1">
-                                  <video width="560" height="315" src="img/video2.mp4" type="video/mp4" controls="auto" frameborder="0" allowfullscreen id="cont_video1" ></video>
+                                  <video width="560" height="315" src="video/I-E-F-V.mp4" type="video/mp4" controls="auto" frameborder="0" allowfullscreen id="cont_video1" ></video>
                                   </div>
                             </div>
                           </li> 
