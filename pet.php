@@ -101,13 +101,12 @@
           </div><!--AQUI TERMINA EL PARALLAX 2--> 
 
 
-
-          <!-- PIE DE PAGINA -->    
-          
-              <div class="superior orange"></div>
-               <footer class="footer black">
+<!--***********************************************************************************-->
+        <!-- PIE DE PAGINA -->    
+    <div class="superior giant"></div>
+     <footer class="footer unreal">
        <?php include "php/pie-pagina.php" ?> 
-    </footer>                        
+    </footer> 
           <!-- ************************************************************ --> 
         
         

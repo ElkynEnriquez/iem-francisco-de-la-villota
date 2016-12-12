@@ -158,7 +158,6 @@ La institución está llamada y diseñar e implementar políticas que generen un
             </div>
     </div>
 </div>
-</div>
 <!--***********************************************************************************************************************************************************************************-->
     <div class="parallax-container">
         <div class="parallax"><img src="img/IMG_1983-1.jpg"></div>
@@ -264,12 +263,11 @@ El plan de mejoramiento, como hemos dicho, centra su atención en las debilidade
 </div>
 <!-- **********************************************************************************************************************************************************************************************************+-->
         
-        
 <!-- PIE DE PAGINA -->    
-    <div class="superior orange"></div>
-     <footer class="footer black">
+    <div class="superior giant"></div>
+     <footer class="footer unreal">
        <?php include "php/pie-pagina.php" ?> 
-    </footer>                          
+    </footer>                        
 <!-- ************************************************************ -->
         <!--Import jQuery before materialize.js-->
       <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>

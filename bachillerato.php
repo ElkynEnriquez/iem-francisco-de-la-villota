@@ -101,19 +101,16 @@
              
           </div> 
     </div>
-    <div class="superior orange"></div>
 <!-- ************************************************************ -->
       <!--TERCERA SESION MULTIMEDIA SLIDER...?--> 
     
 
 <!-- ************************************************************ -->    
-    <!-- PIE DE PAGINA -->    
-          
-    <div class="superior orange"></div>
-     <footer class="footer black">
+<!-- PIE DE PAGINA -->    
+    <div class="superior giant"></div>
+     <footer class="footer unreal">
        <?php include "php/pie-pagina.php" ?> 
-    </footer>        
-    </footer>                    
+    </footer>                
 <!-- ************************************************************ -->
         <!--Import jQuery before materialize.js-->
       <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>

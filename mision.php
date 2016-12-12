@@ -99,13 +99,12 @@
               <div class="parallax-container" id="parallax_efectos_2"><!--AQUI COMIENZA EL PARALLAX 2-->
                 <div class="parallax"><img class="responsive-img" src="img/IMG_1925-1.jpg"></div>
           </div><!--AQUI TERMINA EL PARALLAX 2-->
-
-          <!-- PIE DE PAGINA -->    
-          
-              <div class="superior orange"></div>
-               <footer class="footer black">
+<!--******************************************************************************************-->
+<!-- PIE DE PAGINA -->    
+    <div class="superior giant"></div>
+     <footer class="footer unreal">
        <?php include "php/pie-pagina.php" ?> 
-    </footer>                       
+    </footer>              
           <!-- ************************************************************ -->
         
         
