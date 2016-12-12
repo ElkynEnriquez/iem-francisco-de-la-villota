@@ -163,7 +163,7 @@
           <div class="row container center">
               <h5 class="header center"><font FACE="arial black">Visitanos,<br> nos encontramos en el Corregimiento de Genoy, Nariño.</font></h5> <hr>  
           </div> 
-           <iframe src="https://www.google.com/maps/d/embed?mid=1Ftf69IEl012DqtAiSvpq-MnC_DA&hl=en_US" width="100%" height="350"></iframe>  
+           <iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses-419!2s!4v1481552489837!6m8!1m7!1sflotrYK4-2s3OdHA3rBxOQ!2m2!1d1.271468129913436!2d-77.33439414534124!3f105.37786520214888!4f-5.353084870619725!5f0.7820865974627469" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>  
        </div>
 
 <!-- ************************************************************ -->    
