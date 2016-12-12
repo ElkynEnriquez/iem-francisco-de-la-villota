@@ -1,8 +1,8 @@
 <!-- ESTRUCTURA SUBMENU PARA: NUESTRA INSTITUCION -->
 <ul id="institucion1" class="dropdown-content ">
-  <li><a href="mision.php" class="white-text center">MISION</a></li>
+  <li><a href="mision.php" class="white-text center">MISIÓN</a></li>
   <li class="divider"></li>
-  <li><a href="vision.php" class="white-text center">VISION</a></li>
+  <li><a href="vision.php" class="white-text center">VISIÓN</a></li>
   <li class="divider"></li>
   <li><a href="pei.php" class="white-text center">PEI</a></li>
   <li class="divider"></li>
@@ -10,9 +10,9 @@
 </ul>  
 
 <ul id="institucion2" class="dropdown-content dropdown-content-movil">
-  <li><a href="mision.php" class="black-text center">MISION</a></li>
+  <li><a href="mision.php" class="black-text center">MISIÓN</a></li>
   <li class="divider"></li>
-  <li><a href="vision.php" class="black-text center">VISION</a></li>
+  <li><a href="vision.php" class="black-text center">VISIÓN</a></li>
   <li class="divider"></li>
   <li><a href="pei.php" class="black-text center">PEI</a></li>
   <li class="divider"></li>
@@ -38,23 +38,23 @@
   
    <!-- ESTRUCTURA SUBMENU PARA: GESTION -->
 <ul id="gestion1" class="dropdown-content">
-  <li><a href="directiva.php" class="white-text center">GESTION DIRECTIVA</a></li>
+  <li><a href="directiva.php" class="white-text center">GESTIÓN DIRECTIVA</a></li>
   <li class="divider"></li>
-  <li><a href="academica.php" class="white-text center">GESTION ACADEMICA</a></li>
+  <li><a href="academica.php" class="white-text center">GESTIÓN ACADEMICA</a></li>
   <li class="divider"></li>
-  <li><a href="administrativa.php" class="white-text center">GESTION ADMINISTRATIVA Y FINANCIERA</a></li>
+  <li><a href="administrativa.php" class="white-text center">GESTIÓN ADMINISTRATIVA Y FINANCIERA</a></li>
   <li class="divider"></li>
-  <li><a href="comunitaria.php" class="white-text center">GESTION COMUNITARIA</a></li>
+  <li><a href="comunitaria.php" class="white-text center">GESTIÓN COMUNITARIA</a></li>
 </ul>
 
  <ul id="gestion2" class="dropdown-content dropdown-content-movil">
-  <li><a href="directiva.php" class="black-text center">GESTION DIRECTIVA</a></li>
+  <li><a href="directiva.php" class="black-text center">GESTIÓN DIRECTIVA</a></li>
   <li class="divider"></li>
-  <li><a href="academica.php" class="black-text center">GESTION ACADEMICA</a></li>
+  <li><a href="academica.php" class="black-text center">GESTIÓN ACADEMICA</a></li>
   <li class="divider"></li>
-  <li><a href="administrativa.php" class="black-text center">GESTION ADMINISTRATIVA</a></li>
+  <li><a href="administrativa.php" class="black-text center">GESTIÓN ADMINISTRATIVA</a></li>
   <li class="divider"></li>
-  <li><a href="comunitaria.php" class="black-text center">GESTION COMUNITARIA</a></li>
+  <li><a href="comunitaria.php" class="black-text center">GESTIÓN COMUNITARIA</a></li>
 </ul>
   
   
@@ -62,7 +62,7 @@
   <div class="navbar-fixed">
    <nav>
     <div class="nav-wrapper contenedor-menu">
-        <a href="index.php" class="brand-logo black-text"> <img src="img/francisco2.png" height="60px" class="escudo"><i class="flow-text right titulo"> I.E.M Francisco de la Villota</i></a>
+        <a href="index.php" class="brand-logo black-text"> <img src="img/francisco2.png" height="60px" class="escudo left"><i class="flow-text right titulo"> I.E.M Francisco de la Villota</i></a>
      
        <a href="#" data-activates="mobile-demo" class="button-collapse flow-text left large"><i class="material-icons ">menu</i></a>
        
@@ -71,7 +71,7 @@
         <li><a href="index.php" class="center"> <i class="left icon-home flow-text"></i>Inicio</a></li>
         <li><a href="#" class="center dropdown-button" data-activates="institucion1"><i class="left icon-insitucion flow-text"></i> Nuestra Institucion</a></li>
         <li><a href="#" class="center dropdown-button" data-activates="academia1"><i class="left icon-academia flow-text"></i>Academia</a></li>
-        <li><a href="#" class="center dropdown-button" data-activates="gestion1"><i class="left icon-gestion flow-text"></i>Áreas de Gestion</a></li>
+        <li><a href="#" class="center dropdown-button" data-activates="gestion1"><i class="left icon-gestion flow-text"></i>Áreas de Gestión</a></li>
       </ul>
       </div>  </div>
       
